@@ -6,9 +6,11 @@
 
 .cent {
   text-align: center;
-  background: grey;
+  background: rgb(209, 227, 225,0.5);
   margin-right: auto;
   margin-left: auto;
   border-radius: 10px;
   width: 80%;
+  padding: 10px;
+  border: 2px solid rgb(209, 227, 225);
 }

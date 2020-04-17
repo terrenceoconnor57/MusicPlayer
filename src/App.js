@@ -16,13 +16,60 @@ class App extends Component {
     ]
   },
   {
-    url: 'path/to/mp3',
-    cover: 'path/to/jpg',
-    title: 'Bedtime Stories',
+    url: 'Exit Wound.mp3',
+    cover: 'mee.png',
+    title: 'Exit Wound',
     artist: [
-      'Jay Chou'
+      'Terry',
+      'Dennis'
     ]
-  }
+  },
+  {
+    url: 'new kings.mp3',
+    cover: 'mee.png',
+    title: 'Kings',
+    artist: [
+      'Terry',
+      'Dennis'
+    ]
+  },
+  {
+    url: 'shine_.mp3',
+    cover: 'mee.png',
+    title: 'Imperfect Shine',
+    artist: [
+      'Terry',
+      'Dennis'
+    ]
+  },
+  {
+    url: 'killing me final.mp3',
+    cover: 'mee.png',
+    title: 'Killing Me',
+    artist: [
+      'Terry',
+      'Dennis'
+    ]
+  },
+  {
+    url: 'Thousand Miles Gone.mp3',
+    cover: 'mee.png',
+    title: 'Thousand Miles Gone',
+    artist: [
+      'Terry',
+      'Dennis'
+    ]
+  },
+  {
+    url: 'Dont Wake Me.mp3',
+    cover: 'mee.png',
+    title: 'Don\'t Wake Me',
+    artist: [
+      'Terry',
+      'Dennis'
+    ]
+  },
+
 ]
 
 
@@ -32,6 +79,38 @@ class App extends Component {
       <div className = 'cent'>
         <MusicPlayer playlist={playlist} />
         </div>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
       </div>
     );
   }
